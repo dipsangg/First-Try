@@ -1,0 +1,7 @@
+Bahasa Pemrograman Yang Saya Kuasai
+-Python
+-JavaScript
+
+Bahasa Markup Yang Saya Kuasai
+-html
+-css
