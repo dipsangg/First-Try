@@ -7,6 +7,5 @@ Bahasa Markup Yang Saya Kuasai
 -css
 
 Bahasa Yang Saya Pernah Pelajari
--golang
 -kotlin
 -c++
