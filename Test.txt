@@ -5,3 +5,8 @@ Bahasa Pemrograman Yang Saya Kuasai
 Bahasa Markup Yang Saya Kuasai
 -html
 -css
+
+Bahasa Yang Saya Pernah Pelajari
+-golang
+-kotlin
+-c++
